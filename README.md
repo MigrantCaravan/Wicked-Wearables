@@ -1,5 +1,7 @@
 # Wearables E-Commerce Project
 
+![](client/src/components/Wicked_Wearables2.png)
+
 [See the list of TEAMS](__documentation/TEAMS.md)
 
 You will make use of _everything_ that you have learned thus far in the bootcamp to build an e-commerce app that will showcase all of the provided _wearables_ items.
