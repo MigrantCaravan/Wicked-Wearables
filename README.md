@@ -1,4 +1,4 @@
-# Wearables E-Commerce Project
+# Wicked Wearables / Wearables E-Commerce Project
 
 ![](client/src/components/Wicked_Wearables2.png)
 
